@@ -7,12 +7,6 @@
 
 An open source app for viewing your Spotify Stats with a bunch of fancy data visualization features.
 
-## Tech Stack
-
-**Client:** [ReactJS](https://react.dev/) [React Native](https://reactnative.dev/), [React Native Paper](https://reactnativepaper.com/)
-
-**Server:** [Go](https://go.dev), [MySQL](https://www.postgresql.org/)
-
 ## FAQ
 
 #### What's the ETA?
